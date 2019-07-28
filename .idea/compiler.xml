@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xigou-basic-util" />
+        <module name="xigou-config-server" />
+        <module name="xigou-eureka" />
+        <module name="xigou-plat-interface" />
+        <module name="xigou-plat-service" />
+        <module name="xigou-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xigou-basic-parent" target="8" />
+      <module name="xigou-basic-util" target="8" />
+      <module name="xigou-config-server" target="8" />
+      <module name="xigou-eureka" target="8" />
+      <module name="xigou-parent" target="8" />
+      <module name="xigou-plat-interface" target="8" />
+      <module name="xigou-plat-parent" target="8" />
+      <module name="xigou-plat-service" target="8" />
+      <module name="xigou-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
