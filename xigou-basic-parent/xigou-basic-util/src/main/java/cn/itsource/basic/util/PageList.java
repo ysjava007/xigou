@@ -4,22 +4,22 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PageList<T> {
-    private Integer total=0;
+    private long total=0;
     private List<T> rows=new ArrayList<T>();
 
     public PageList() {
     }
 
-    public PageList(Integer total, List<T> rows) {
+    public PageList(long total, List<T> rows) {
         this.total = total;
         this.rows = rows;
     }
 
-    public Integer getTotal() {
+    public Long getTotal() {
         return total;
     }
 
-    public void setTotal(Integer total) {
+    public void setTotal(Long total) {
         this.total = total;
     }
 

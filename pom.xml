@@ -10,6 +10,8 @@
         <module>xigou-config-server</module>
         <module>xigou-basic-parent</module>
         <module>xigou-plat-parent</module>
+        <module>xigou-product-parent</module>
+        <module>xigou-common-parent</module>
     </modules>
 
 

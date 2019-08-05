@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/xigou-basic-parent/xigou-basic-genertor/xigou-basic-genertor.iml" filepath="$PROJECT_DIR$/xigou-basic-parent/xigou-basic-genertor/xigou-basic-genertor.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-basic-parent/xigou-basic-parent.iml" filepath="$PROJECT_DIR$/xigou-basic-parent/xigou-basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-basic-parent/xigou-basic-util/xigou-basic-util.iml" filepath="$PROJECT_DIR$/xigou-basic-parent/xigou-basic-util/xigou-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-common-parent/xigou-common-interface/xigou-common-interface.iml" filepath="$PROJECT_DIR$/xigou-common-parent/xigou-common-interface/xigou-common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-common-parent/xigou-common-parent.iml" filepath="$PROJECT_DIR$/xigou-common-parent/xigou-common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-common-parent/xigou-common-service/xigou-common-service.iml" filepath="$PROJECT_DIR$/xigou-common-parent/xigou-common-service/xigou-common-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-config-server/xigou-config-server.iml" filepath="$PROJECT_DIR$/xigou-config-server/xigou-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-eureka/xigou-eureka.iml" filepath="$PROJECT_DIR$/xigou-eureka/xigou-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-parent.iml" filepath="$PROJECT_DIR$/xigou-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-plat-parent/xigou-plat-interface/xigou-plat-interface.iml" filepath="$PROJECT_DIR$/xigou-plat-parent/xigou-plat-interface/xigou-plat-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-plat-parent/xigou-plat-parent.iml" filepath="$PROJECT_DIR$/xigou-plat-parent/xigou-plat-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-plat-parent/xigou-plat-service/xigou-plat-service.iml" filepath="$PROJECT_DIR$/xigou-plat-parent/xigou-plat-service/xigou-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-product-parent/xigou-product-interface/xigou-product-interface.iml" filepath="$PROJECT_DIR$/xigou-product-parent/xigou-product-interface/xigou-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-product-parent/xigou-product-parent.iml" filepath="$PROJECT_DIR$/xigou-product-parent/xigou-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xigou-product-parent/xigou-product-service/xigou-product-service.iml" filepath="$PROJECT_DIR$/xigou-product-parent/xigou-product-service/xigou-product-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/xigou-zuul/xigou-zuul.iml" filepath="$PROJECT_DIR$/xigou-zuul/xigou-zuul.iml" />
     </modules>
   </component>

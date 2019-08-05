@@ -6,23 +6,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="xigou-basic-genertor" />
         <module name="xigou-basic-util" />
+        <module name="xigou-common-interface" />
+        <module name="xigou-common-service" />
         <module name="xigou-config-server" />
         <module name="xigou-eureka" />
         <module name="xigou-plat-interface" />
         <module name="xigou-plat-service" />
+        <module name="xigou-product-interface" />
+        <module name="xigou-product-service" />
         <module name="xigou-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="xigou-basic-genertor" target="8" />
       <module name="xigou-basic-parent" target="8" />
       <module name="xigou-basic-util" target="8" />
+      <module name="xigou-common-interface" target="8" />
+      <module name="xigou-common-parent" target="8" />
+      <module name="xigou-common-service" target="8" />
       <module name="xigou-config-server" target="8" />
       <module name="xigou-eureka" target="8" />
       <module name="xigou-parent" target="8" />
       <module name="xigou-plat-interface" target="8" />
       <module name="xigou-plat-parent" target="8" />
       <module name="xigou-plat-service" target="8" />
+      <module name="xigou-product-interface" target="8" />
+      <module name="xigou-product-parent" target="8" />
+      <module name="xigou-product-service" target="8" />
       <module name="xigou-zuul" target="8" />
     </bytecodeTargetLevel>
   </component>
